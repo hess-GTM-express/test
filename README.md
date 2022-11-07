@@ -1,2 +1,2 @@
 # test
-testing minware data ingest application
+testing data ingest application
